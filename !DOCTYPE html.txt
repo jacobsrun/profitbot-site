@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Discover the top AI tools to make real money online in 2025. Earn more with cutting-edge apps!">
+  <title>ProfitBot AI – Top AI Tools to Make Money in 2025</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f4f4f4;
+      color: #222;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: linear-gradient(90deg, #0f2027, #203a43, #2c5364);
+      color: #fff;
+      padding: 2.5rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 3rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    .tool {
+      background: #fff;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+    }
+    .tool h2 {
+      margin-top: 0;
+      font-size: 1.6rem;
+    }
+    .tool p {
+      font-size: 1rem;
+      margin: 0.5rem 0 1rem 0;
+    }
+    .btn {
+      background: #ff5722;
+      color: white;
+      padding: 0.8rem 1.5rem;
+      text-decoration: none;
+      border-radius: 5px;
+      display: inline-block;
+      transition: background 0.3s ease;
+    }
+    .btn:hover {
+      background: #e64a19;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      background: #111;
+      color: #aaa;
+      font-size: 0.9rem;
+    }
+    .cta {
+      text-align: center;
+      margin: 3rem 0;
+    }
+    .cta input[type="email"] {
+      padding: 0.7rem;
+      width: 250px;
+      max-width: 80%;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    .cta button {
+      padding: 0.7rem 1.2rem;
+      background: #28a745;
+      border: none;
+      color: white;
+      border-radius: 5px;
+      margin-left: 0.5rem;
+      cursor: pointer;
+    }
+  </style>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX');
+  </script>
+</head>
+<body>
+  <header>
+    <h1>ProfitBot AI</h1>
+    <p>Top AI Tools to Make Real Money Online in 2025</p>
+  </header>
+  <section>
+    <div class="tool">
+      <h2>1. Jasper AI</h2>
+      <p>Create high-converting blog posts, ads, and emails in seconds. Perfect for marketers and entrepreneurs.</p>
+      <a class="btn" href="#" target="_blank">Try Jasper (Affiliate)</a>
+    </div>
+    <div class="tool">
+      <h2>2. Copy.ai</h2>
+      <p>Fast, fun, and powerful AI writing for businesses and creatives. Start free and scale up.</p>
+      <a class="btn" href="#" target="_blank">Get Copy.ai</a>
+    </div>
+    <div class="tool">
+      <h2>3. Notion AI</h2>
+      <p>Streamline your workflows, documents, and daily tasks using Notion's built-in AI.</p>
+      <a class="btn" href="#" target="_blank">Use Notion AI</a>
+    </div>
+    <div class="tool">
+      <h2>4. ChatGPT by OpenAI</h2>
+      <p>Build bots, create content, or automate support with one of the most advanced AIs ever built.</p>
+      <a class="btn" href="#" target="_blank">Start with ChatGPT</a>
+    </div>
+    <div class="tool">
+      <h2>5. Pictory AI</h2>
+      <p>Turn long-form content into engaging short videos that go viral on TikTok and YouTube Shorts.</p>
+      <a class="btn" href="#" target="_blank">Try Pictory</a>
+    </div>
+    <div class="cta">
+      <h3>📬 Want AI tools and tips delivered to your inbox?</h3>
+      <form>
+        <input type="email" placeholder="Your email address" required />
+        <button type="submit">Subscribe</button>
+      </form>
+    </div>
+  </section>
+  <footer>
+    <p>&copy; 2025 ProfitBot AI. Some links are affiliate links. We may earn a commission if you buy through them. Built with 💡 and AI.</p>
+  </footer>
+</body>
+</html>
